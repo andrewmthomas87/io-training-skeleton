@@ -1,4 +1,5 @@
 # .io Training Skeleton
+A skeleton for a SPA (single-page application) using [Webpack](https://webpack.js.org/).  Configured for one bundle with an entrypoint of `src/index`.  For each bundle, a stylesheet will be outputted with the same name name as the bundle containing all transpiled `less` files imported.  `react` and `react-dom` packages are already added and used by placeholder code.
 
 ## Prerequisites
 * [`yarn`](https://yarnpkg.com/en/) (preferable) or [`npm`](https://www.npmjs.com/)
